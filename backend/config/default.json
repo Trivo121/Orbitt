@@ -1,0 +1,11 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb://localhost:27017/college-platform",
+    "jwtSecret": "your_secret_key",
+    "allowedDomains": ["ksrmce.ac.in"],
+    "logging": {
+      "level": "info",
+      "file": "logs/app.log"
+    }
+  }
+  
