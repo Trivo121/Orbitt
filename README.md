@@ -1,4 +1,4 @@
-# Orbitt- a space to find your orbit from your insti
+# Orbitt
 
 "Orbit" is a web-based platform aimed at fostering connections between senior and junior students within a college. It provides features such as an AI-Powered 'Find a Friend' Feature, Anonymous Confessions, and a 'Share Your Experience' Page to promote meaningful interactions. Built with HTML, Tailwind CSS, React JS, Node.js, and MongoDB, the website incorporates both modern web technologies and efficient data handling techniques to ensure a user-friendly experience.
 
