@@ -6,23 +6,6 @@ Key highlights of the platform include a secure login system based on college em
 
 The vision behind "Orbit" is to create a space where students can find support, inspiration, and camaraderie, enabling them to thrive academically and socially within their institution. By prioritizing inclusivity and innovation, the platform seeks to redefine how students interact and collaborate within an academic environment.
 
-SOFTWARE REQUIREMENTS
-
-Operating System: Windows 10/11, macOS, or Linux.
-
-Frontend Technologies: HTML, Tailwind CSS, React JS.
-
-Backend Technologies: Node.js, Express.js.
-
-Database: MongoDB.
-
-Tools and Libraries: Visual Studio Code, Postman, Git.
-
-Browser Compatibility: Supports modern web browsers such as Google Chrome, Firefox, and Microsoft Edge.
-
-Third-Party Integrations: APIs for authentication, AI-based recommendations, and cloud hosting services.
-
-Development Tools: Docker for containerization and Jenkins for continuous integration.
 
 INTRODUCTION
 
@@ -131,3 +114,22 @@ CONCLUSION
 "Orbit" demonstrates the potential of web technologies in fostering meaningful connections within a college community. The project effectively integrates modern tools to create a secure, interactive platform. While some features remain under development, the current implementation provides a strong foundation for future enhancements.
 
 The platform has the potential to grow further by introducing additional features, such as event planning tools, group discussions, and enhanced AI-driven functionalities. These enhancements would enable "Orbit" to become a comprehensive hub for college interactions and collaborations, fostering a stronger sense of community among students and faculty.
+
+
+SOFTWARE REQUIREMENTS
+
+Operating System: Windows 10/11, macOS, or Linux.
+
+Frontend Technologies: HTML, Tailwind CSS, React JS.
+
+Backend Technologies: Node.js, Express.js.
+
+Database: MongoDB.
+
+Tools and Libraries: Visual Studio Code, Postman, Git.
+
+Browser Compatibility: Supports modern web browsers such as Google Chrome, Firefox, and Microsoft Edge.
+
+Third-Party Integrations: APIs for authentication, AI-based recommendations, and cloud hosting services.
+
+Development Tools: Docker for containerization and Jenkins for continuous integration.
