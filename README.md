@@ -14,7 +14,7 @@ Orbitt is a web-based platform designed to foster meaningful connections between
 - **Responsive UI**: Seamless experience across all devices.
 
 ### Under Development
-- **Interactive Direct Messaging System**: Real-time communication for personalized interactions
+- **Interactive Direct Messaging System**: Real-time communication for personalized interactions.
 - **Enhanced AI Recommendations**: Expanding the AI model to incorporate more complex data points
 
 ## 🛠️ Tech Stack
