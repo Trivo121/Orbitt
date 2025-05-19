@@ -42,11 +42,11 @@ Orbitt is a web-based platform designed to foster meaningful connections between
 
 The platform consists of five core pages:
 
-1. **Home Page**: Overview and navigation to other features
-2. **Login/Register Page**: Secure authentication system
-3. **Find a Friend Page**: AI-powered recommendation system
-4. **Confession Page**: Anonymous expression space with moderation
-5. **Messaging Page**: Direct communication system (in development)
+1. **Home Page**: Overview and navigation to other features.
+2. **Login/Register Page**: Secure authentication system.
+3. **Find a Friend Page**: AI-powered recommendation system.
+4. **Confession Page**: Anonymous expression space with moderation.
+5. **Messaging Page**: Direct communication system (in development).
 
 ## 🔒 Security Features
 
