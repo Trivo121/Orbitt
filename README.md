@@ -15,7 +15,7 @@ Orbitt is a web-based platform designed to foster meaningful connections between
 
 ### Under Development
 - **Interactive Direct Messaging System**: Real-time communication for personalized interactions.
-- **Enhanced AI Recommendations**: Expanding the AI model to incorporate more complex data points
+- **Enhanced AI Recommendations**: Expanding the AI model to incorporate more complex data points.
 
 ## 🛠️ Tech Stack
 
@@ -50,10 +50,10 @@ The platform consists of five core pages:
 
 ## 🔒 Security Features
 
-- College email-based verification
-- Data sanitization and validation
-- Secure content moderation tools
-- Privacy-focused design for anonymous features
+- College email-based verification.
+- Data sanitization and validation.
+- Secure content moderation tools.
+- Privacy-focused design for anonymous features.
 
 ## 🖥️ System Requirements
 
