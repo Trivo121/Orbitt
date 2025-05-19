@@ -10,8 +10,8 @@ Orbitt is a web-based platform designed to foster meaningful connections between
 - **AI-Powered Friend Finder**: Recommends connections based on shared interests, academic goals, and hobbies.
 - **Anonymous Confessions**: A safe space for students to express themselves freely with moderation features.
 - **Secure Login System**: College email verification ensures only authorized users can access the platform.
-- **Share Your Experience Page**: Platform for sharing inspiring stories and knowledge exchange
-- **Responsive UI**: Seamless experience across all devices
+- **Share Your Experience Page**: Platform for sharing inspiring stories and knowledge exchange.
+- **Responsive UI**: Seamless experience across all devices.
 
 ### Under Development
 - **Interactive Direct Messaging System**: Real-time communication for personalized interactions
