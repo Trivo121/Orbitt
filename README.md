@@ -1,7 +1,7 @@
 # Orbitt
 
 ## Overview
-Orbitt is a web-based platform designed to foster meaningful connections between senior and junior students within a college environment. The platform aims to bridge the interaction gap between different academic levels by providing a secure, interactive space for students to connect, share experiences, and learn from each other.   
+Orbitt is a web-based platform designed to foster meaningful connections between senior and junior students within a college environment. The platform aims to bridge the interaction gap between different academic levels by providing a secure, interactive space for students to connect, share experiences, and learn from each other.
 
 
 ## 🚀 Features
